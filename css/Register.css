@@ -1,0 +1,80 @@
+/* Comment */
+
+body {
+    background-image: url("../img/ANswom.jpg");
+    background-repeat: no-repeat;
+    background-size: 2560px;
+}
+
+h1{
+    font-family: Ink free;
+    text-align: center;
+}
+
+h2{
+    font-family: PMingLiU-ExtB;
+    text-align: center;
+}
+
+h3{
+
+}
+
+h4{
+    text-align: left;
+    font-family: PMingLiU-ExtB;
+
+}
+
+p{
+    text-align: left;
+
+}
+
+a{
+
+}
+
+b{
+
+}
+
+.header{
+    background-color: #85ebff;
+    text-align: center;
+    opacity: 0.8;
+
+}
+
+#container{
+    background-color: #008898;
+    margin:  0 auto;
+    border-radius: 50px;
+    display: block;
+    height: 1080px;
+    width: 350px;
+    opacity: 0.8;
+    text-align: center;
+    
+
+}
+
+input{
+    width: 75%;
+    height: 30px;
+    border-radius: 20px;
+    border: 0;
+    
+}
+
+#Knop{
+    background-color: #85ebff;
+    width: 25%;
+    height: 30px;
+    border-radius: 20px;
+    border: 0;
+}
+
+#Knop:hover{
+    background-color: #82f5a8;
+}

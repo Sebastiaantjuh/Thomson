@@ -1,0 +1,93 @@
+/* Comment */
+
+body {
+    background-image: url("../img/download.jpg");
+    background-repeat: no-repeat;
+    background-size: 1920px;
+}
+
+h1{
+    font-family: Ink free;
+    text-align: center;
+}
+
+h2{
+    font-family: PMingLiU-ExtB;
+    text-align: center;
+}
+
+h3{
+
+}
+
+h4{
+    text-align: left;
+    font-family: PMingLiU-ExtB;
+
+}
+
+p{
+    text-align: left;
+
+}
+
+a{
+
+}
+
+b{
+
+}
+
+.header{
+    background-color: #85ebff;
+    text-align: center;
+    opacity: 0.8;
+
+}
+
+#container{
+    background-color: #008898;
+    margin: 15% auto 0 auto;
+    border-radius: 15%;
+    display: block;
+    height: 400px;
+    width: 400px;
+    opacity: 0.8;
+    text-align: center;
+    
+
+}
+
+
+#gebruikersnaam{
+    width: 75%;
+    height: 30px;
+    border-radius: 20px;
+    border: 0;
+}
+
+#wachtwoord{
+    width: 75%;
+    height: 30px;
+    border-radius: 20px;
+    border: 0;
+}
+ 
+#Knop{
+    width: 25%;
+    height: 30px;
+    border-radius: 20px;
+    border: 0;
+    margin-left: 15%;
+}
+
+#Knop1{
+    width: 25%;
+    height: 30px;
+    border-radius: 20px;
+    border: 0;
+    margin-right: 15%;
+
+}
+
